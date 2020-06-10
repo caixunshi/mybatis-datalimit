@@ -1,7 +1,7 @@
 package com.caixunshi.datalimit.config;
 
 /**
- * @Author: 002158
+ * @Author: caixunshi
  * @Date: 2020/6/10 20:11
  */
 public class DataLimitMapper {
