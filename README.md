@@ -156,6 +156,5 @@ public class MycreateGenerateSql implements IDataLimitSql{
 
 这样就达到了跟4.1一样的效果。
 
-## 源码解析
-
-待补充
+## [源码解析](https://github.com/caixunshi/mybatis-datalimit/blob/master/INTRODICTION.md)
+ 
