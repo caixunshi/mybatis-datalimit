@@ -21,7 +21,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-jdbc</artifactId>
-            <version>5.2.6.RELEASE</version>
+            <version>6.1.14</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
